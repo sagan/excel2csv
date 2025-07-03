@@ -1,0 +1,4 @@
+*.exe
+/excel2csv
+/.local
+/dist
