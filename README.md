@@ -1,6 +1,6 @@
 # excel2csv
 
-Yet another Excel (.xlsx) to CSV (.csv) file convertor.
+Yet another Excel (.xlsx) to CSV (.csv) file convertor. ([GitHub](https://github.com/sagan/excel2csv))
 
 By Gemini 2.5 Pro.
 
